@@ -1,0 +1,11 @@
+{
+	"name": "de.cryma.litenetlib",
+	"displayName": "LiteNetLib",
+	"version": "0.8.0",
+	"unity": "2018.1",
+	"description": "Lite reliable UDP library for .NET Framework 3.5, Mono, .NET Core 2.0, .NET Standard 2.0. - https://github.com/Cryma/LiteNetLib",
+	"category": "Networking Library",
+	"keywords": [
+		"networking"
+	]
+}
